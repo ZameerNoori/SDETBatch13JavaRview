@@ -1,4 +1,4 @@
-package ReviewClass_1;
+package ReviewClass8_1;
 
 import ReviewClass8.Doctor;
 
