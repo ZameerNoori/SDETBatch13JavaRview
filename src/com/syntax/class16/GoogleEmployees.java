@@ -19,7 +19,7 @@ public class GoogleEmployees {
 
 
         GoogleEmployees emp2 = new GoogleEmployees();
-        emp2.name = "Sameer";
+        emp2.name = "Zameer";
         emp2.salary = 250001;
         emp2.noOfEmployees = 2;
 

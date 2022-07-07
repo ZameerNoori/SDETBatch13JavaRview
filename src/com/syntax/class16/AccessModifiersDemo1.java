@@ -4,7 +4,7 @@ public class AccessModifiersDemo1 {
 
     private String password = "pass123";
     int ssn = 123546;
-    public String name = "Bilal";
+    public String name = "Zameer";
 
 
     public static void main(String[] args) {

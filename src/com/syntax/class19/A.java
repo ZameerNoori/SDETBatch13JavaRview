@@ -6,7 +6,7 @@ public class A {
     }
 
     //Write program for multilevel inheritance where class C inherits from class B and Class B inherits from Class A.
-        static class B extends A {
+    static class B extends A {
         void methodB() {
             System.out.println("Jen");
         }
@@ -16,7 +16,7 @@ public class A {
         }
     }
 
-        static class C extends B {
+    static class C extends B {
         void methodC() {
             System.out.println("Kat");
         }
